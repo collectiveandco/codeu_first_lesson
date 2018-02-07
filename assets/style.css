@@ -17,3 +17,7 @@ html, body {
 #list {
   font-size: 1.3rem;
 }
+
+#list:hover {
+  cursor: default;
+}
